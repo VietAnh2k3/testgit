@@ -1,0 +1,186 @@
+@media screen and (max-width :63.9375em) {
+    #place-of-tour .buy-tickets{
+        padding: 14px 16px;
+        width: 100%;
+    }
+
+    #contact-section .send-button {
+        padding: 14px 16px;
+        width: 100%;
+        border-radius: 0;
+        
+    }
+
+    .information{
+        line-height: 3;
+    }
+
+    #contact-section .information{
+        line-height: 2;
+    }
+    .enter-infor{
+        padding: 15px;
+    }
+
+    .modal-container{
+        width: 95%;
+    }
+
+    .content .link-to-web{
+        font-size: 24px;
+        letter-spacing: 10px;
+    }
+    
+    .content .link-to-vietanh{
+        padding: 12px 0;
+        display: inline-block;
+    }
+}
+
+
+@media screen and (max-width:46.1875em){
+    .full-width,
+    .s-col-full{
+        width: 100%;
+        
+    }
+
+
+    .s-mt-8{
+        margin-top: 8px !important;
+    }
+
+    #header{
+        position: fixed;
+        overflow: hidden;
+        
+        
+    }
+
+    
+
+
+    #navigation > li{
+        display: block;
+        
+    }
+
+    #navigation .subnav{
+        position: initial;
+        background-color: #333;
+        padding-left: 23px;
+        
+    } 
+
+    #navigation .subnav a{
+        color: #fff;
+    }
+
+    #navigation li a{
+        padding-right: 0px;
+    }
+
+    
+    .menu-list {
+    position: absolute;
+    top: 0;
+    right: 0;
+ 
+    }
+
+    
+
+    #header .menu-icon{
+    cursor: pointer;
+    font-size: 15px;
+    padding:0 24px ;
+    line-height: 46px;
+    
+    }
+
+    
+
+    #header .menu-list:hover{
+        background-color: rgb(128, 128, 128);
+    }
+
+
+
+    #navigation > li:first-child {
+        display: inline-block;
+    }
+  
+
+    #search{
+        display: none;
+    }
+
+    #slider #text-content{
+        display: none;
+    }
+
+    #content .member-of-band .member-item{
+        width: 100%;
+        display: block;
+        padding: 15px 0;
+
+    }
+
+    #content .member-of-band .img{
+        width: 60%;
+    }
+
+    #content #tour-section #place-of-tour{
+        display: block;
+    }
+
+    #content #place-of-tour{
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    #content #place-of-tour .place{
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #place-of-tour .buy-tickets{
+        
+        padding:8px 16px;
+        margin-left: 0;
+        
+        
+    }
+
+ 
+
+    #contact-section .information{
+        margin-bottom: 16px;
+    }
+
+    #contact-section .col1{
+        display: block;
+    }
+
+   
+    
+    
+
+    
+}
+
+@media screen and (min-width:46.25em) and (max-width:63.9375em){
+    
+
+    .menu-list{
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width:64em){
+    .menu-list{
+        display: none;
+    }
+    
+}
